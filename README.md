@@ -84,4 +84,4 @@ Prints a header followed by the menu options.
 Examples
 -------
 
-See `test.py` and `utils.py` for example's of the module's use.
+See `test.py` and `utils.py` for an example of the module's use.
