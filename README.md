@@ -31,11 +31,11 @@ Creates and returns an instance of the CLI class.
 
 Adds an option to the menu.
 
- * <i>option</i>: An instance of the class MenuOption. See below in the Supporting Classes and Functions section.
+ * <i>option</i>: An instance of the class `MenuOption`. See below in the Supporting Classes and Functions section.
 
 ### CLI#callAction(selection)
 
-Calls the `i`th menu option given by the integer selection. The options are indexed at 0.
+Calls the `i`th menu option given by the integer `selection`. The options are indexed at 0.
 
 ### CLI#run()
 
